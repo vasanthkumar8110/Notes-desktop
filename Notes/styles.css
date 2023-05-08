@@ -1,0 +1,197 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    left: 35px;
+    top: 30px;
+    overflow-x: scroll;
+    background: #a1f7e8;
+
+}
+
+#arrow1 {
+    position: absolute;
+    width: 69.14px;
+    height: 64.84px;
+    left: 1320.83px;
+    top: 240px;
+
+    background: #8E96E6;
+    border-radius: 5px;
+    transform: rotate(89.29deg);
+}
+
+#arrow2 {
+    position: absolute;
+    width: 69.14px;
+    height: 64.84px;
+    left: 40.26px;
+    top: 245.38px;
+
+    background: #8E96E6;
+    border-radius: 5px;
+    transform: rotate(-90.21deg);
+}
+
+#heeaderr {
+    position: absolute;
+    width: 1440px;
+    height: 184px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(0deg, rgba(182, 221, 6, 0.753), rgba(212, 199, 7, 0.788)), linear-gradient(0deg, rgba(224, 166, 4, 0.2), rgba(18, 35, 67, 0.2)), #FFEB3C;
+    border-radius: 40px;
+    box-shadow: 5px 20px 60px rgb(241, 187, 39);
+}
+
+#heading h1 {
+    text-align: center;
+    font-size: 100px;
+    position: relative;
+    top: 31px;
+}
+
+#card1 {
+    position: absolute;
+    width: 312px;
+    height: 385px;
+    left: 130px;
+    top: 431px;
+    background: #F1DD76;
+    border-radius: 30px;
+    box-shadow: 50px 50px 60px rgb(241, 187, 39);
+}
+
+#card1 h1 {
+    position: absolute;
+    top: 120px;
+    left: 60px;
+    font-size: 40px;
+}
+
+#h2h {
+    position: absolute;
+    width: 1167px;
+    height: 141px;
+    left: 130px;
+    top: 220px;
+    background-color: #C6F398;
+    border-radius: 20px;
+    box-shadow: 100px 100px 100px rgb(160, 150, 7);
+    background-color: rgba(255, 255, 0, 0.63);
+}
+
+#h2h h2 {
+    position: absolute;
+    width: 941px;
+    height: 90px;
+    left: 351px;
+    top: 15px;
+
+    font-family: 'JejuMyeongjo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 96px;
+    letter-spacing: 0.05em;
+
+    color: #000000;
+
+    mix-blend-mode: hard-light;
+}
+
+#card1h {
+    position: absolute;
+    width: 248px;
+    height: 56px;
+    left: 32px;
+    top: 37px;
+    background: #14B887;
+    border-radius: 30px;
+}
+
+#card1h h2 {
+    position: absolute;
+    width: 204px;
+    height: 38px;
+    left: 30px;
+    top: 15px;
+    font-family: 'JejuMyeongjo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+
+    color: #100F0F;
+}
+
+#card2 {
+    position: absolute;
+    width: 312px;
+    height: 385px;
+    left: 564px;
+    top: 431px;
+    box-shadow: 50px 50px 60px rgb(241, 187, 39);
+    background: #F1DD76;
+    border-radius: 30px;
+}
+
+#card2 h1 {
+    position: absolute;
+    top: 120px;
+    left: 60px;
+    font-size: 40px;
+}
+
+#card3 {
+
+    position: absolute;
+    width: 282px;
+    height: 385px;
+    left: 972px;
+    top: 431px;
+    background: #F1DD76;
+    border-radius: 30px;
+    box-shadow: 50px 50px 60px rgb(241, 187, 39);
+}
+
+#card3 h1 {
+    position: absolute;
+    top: 120px;
+    left: 40px;
+    font-size: 40px;
+}
+
+#card2h {
+    position: absolute;
+    width: 238px;
+    height: 50px;
+    left: 20px;
+    top: 40px;
+    background: #14B887;
+    border-radius: 30px;
+}
+
+#card2h h2 {
+    position: absolute;
+    width: 204px;
+    height: 38px;
+    left: 25px;
+    top: 10px;
+
+    font-family: 'JejuMyeongjo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+
+    color: #100F0F;
+}
